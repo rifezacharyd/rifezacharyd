@@ -3,26 +3,23 @@ IZACHARYRIFEI/IZACHARYRIFEI is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-Zachary Rife
-============
+<h1 style="text-align: center">Zachary Rife</h1>
+<h3 style="text-align: center"> 851 French Moore Jr Blvd Box 23 Abingdon Virginia 24210</h3>
 
------------------------------------------------------------
-851 French Moore Jr Blvd Box 23 Abingdon Virginia 24210
-=========================================================== 
 
-- 👋 Hello world, my name is [@IZACHARYRIFEI](https://www.github.com/IZACHARYRIFEI)
-- 👀 I’m an American veteran, student, and entrepreneur [@DominionAnalytics](https://www.dominionanalytics.com/) specializing in Market Research, Analytics, and Strategy.
-- 🌱 I’m currently studying; Business Administration with a Marketing specialization, Marketing Analytics, and Data Science.
-- 🏦 I’m looking for aspiring entrepreneurs, startups, and small-businesses needing assistance with Market Research, Analytics, and Strategy.
+- 👋 Hello world, my name is [@IZACHARYRIFEI](https://www.github.com/IZACHARYRIFEI).
+- 👀 I’m an American veteran, student, and entrepreneur 
+- 🌱 currently studying Business Administration with a Marketing specialization, Marketing Analytics, and Data Science.
+- 🏦 [@DominionAnalytics](https://www.dominionanalytics.com/), a Virginia based Marketing Consulting firm specializing in Market Research, Analytics, and Strategy, I add value to our clients by working as a trusted partner to their organization, often as early as ideation, as a key strategist in their organizations development and execution.
 - 📫 You can easily reach me at <a href="mailto:zacharyrife@pm.me">zacharyrife@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
 
 
 Professional Affiliations and Volunteer Service
 ----------------------------------------------------
 
-Member : Lions Club International - Bristol Twin Cities Lions Club 
-Member : Virginia Economic Developers Association
-Habitat for Humanity International - Holston Habitat for Humanity
+-     Member / Volunteer : Lions Club International - Bristol Twin Cities Lions Club 
+-     Member : Virginia Economic Developers Association
+-     Volunteer : Habitat for Humanity International - Holston Habitat for Humanity
 
 
 Education
@@ -37,7 +34,7 @@ Experience
 
 **Business Consultant - TPUSA INC ( 2015 - 2017 , 2021 - 2024 )**
 
-:     I collaborated with clients on projects in the Manufacturing, Technology, and Financial Services industries during my tenure as an operations specialist. I specialized in providing process improvement strategies, technical services, and public relations.
+:     I collaborated with clients on projects in the Manufacturing, Technology, and Financial Services industries during my tenure as an operations specialist. I specialized in providing process improvement strategies, technical services, and public relations management.
 
 **Business Group Associate - Amazon ( 2020 - 2021 )**
 
@@ -98,3 +95,4 @@ Additional Skills
 >
 >   "Your task it not to foresee the future, but to enable it." - Antoine St.Exupery
 >
+
