@@ -3,7 +3,7 @@ rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 style="text-align: center">Zachary Dylan Rife</h1>
+<h1 style="text-align: center">Zachary D. Rife</h1>
 <h3 style="text-align: center"> 851 French Moore Jr Blvd Box 23 Abingdon Virginia 24210</h3>
 
 
