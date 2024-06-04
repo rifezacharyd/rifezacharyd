@@ -1,53 +1,42 @@
 <!---
-IZACHARYRIFEI/IZACHARYRIFEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 style="text-align: center">Zachary Rife</h1>
+<h1 style="text-align: center">Zachary Dylan Rife</h1>
 <h3 style="text-align: center"> 851 French Moore Jr Blvd Box 23 Abingdon Virginia 24210</h3>
 
 
-- 👋 Hello world, my name is [@IZACHARYRIFEI](https://www.github.com/IZACHARYRIFEI).
-- 👀 I’m an American veteran, student, and entrepreneur 
-- 🌱 currently studying Business Administration with a Marketing specialization, Marketing Analytics, and Data Science.
-- 🏦 [@DominionAnalytics](https://www.dominionanalytics.com/), a Virginia based Marketing Consulting firm specializing in Market Research, Analytics, and Strategy, I add value to our clients by working as a trusted partner to their organization, often as early as ideation, as a key strategist in their organizations development and execution.
-- 📫 You can easily reach me at <a href="mailto:zacharyrife@pm.me">zacharyrife@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
+- 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
+- 👀 I’m an American veteran, duel-enrolled student, and the founder of [@Dominion-Analytics](https://dominionanalytics.com/) 
+- 🌱 currently studying Computer Science (ABET Accredited) at Western Governors University and Computational Mathematics with a Computer Science cognate at Liberty University with hopes of continuing my Computer Science education at the Georgia Institute of Technology.
+- 🏦 [@DominionAnalytics](https://www.dominionanalytics.com/), a Virginia based Software Company developing algorithms and technologies to solve real-world problems for local small-businesses and non-profit organizations. 
+- 📫 You can easily reach me at <a href="mailto:rifezacharyd@pm.me">rifezacharyd@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
 
 
 Professional Affiliations and Volunteer Service
 ----------------------------------------------------
 
 -     Member / Volunteer : Lions Club International - Bristol Twin Cities Lions Club 
+      - Elected Club Secretary June 2024 - Present
+      - Club Marketing Chair
 -     Member : Virginia Economic Developers Association
--     Volunteer : Habitat for Humanity International - Holston Habitat for Humanity
 
 
 Education
 ---------
 
-Expected 2024
-:   **BSc, Business Administration - Marketing (ACBSP Accredited)**; Western Governor's University (Salt Lake City, UT)
+Expected July 2025
+:   **B.Sc., Computer Science**; Western Governor's University (Salt Lake City, UT)
+
+Expected May 2026
+:   **B.Sc., Computational Mathematics - Computer Science**; Liberty University (Lynchburg, VA)
 
 
 Experience
 ----------
 
-**Business Consultant - TPUSA INC ( 2015 - 2017 , 2021 - 2024 )**
 
-:     I collaborated with clients on projects in the Manufacturing, Technology, and Financial Services industries during my tenure as an operations specialist. I specialized in providing process improvement strategies, technical services, and public relations management.
-
-**Business Group Associate - Amazon ( 2020 - 2021 )**
-
-:      I partnered with Amazon’s Business Group as a contracted associate who worked with corporate clients of various sizes with account management, finance, logistics, analytics, technology, fraud investigations, and other support operations.
-
-**Assistant Store Manager - CVS ( 2014 - 2015 )**
-
-:     As an assistant store manager, I managed both front-end and pharmaceutical employees, developed and improved store policies, was accountable for my store’s financial health, trained new and existing employees, and lead various efforts tailored towards customer experience, risk management, and marketing strategies.  
-
-**Enlisted - Department of Defense / Virginia Army National Guard ( 2013 - 2021 )**
-:     I was also enlisted for a period of 8 years with the following occupations :
-            Motor-Transport Operator (4 Years)
-            Military Police Officer (4 Years)
 
 
 Additional Skills
@@ -93,6 +82,6 @@ Additional Skills
 
 
 >
->   "Your task it not to foresee the future, but to enable it." - Antoine St.Exupery
+>   "As for the Future, your task is not to foresee it, but to enable it." - Antoine de Saint Exupéry
 >
 
