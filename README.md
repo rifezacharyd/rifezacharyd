@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
 - 👀 I’m an American veteran, duel-enrolled student, and the founder of [@Dominion-Analytics](https://dominionanalytics.com/) 
 - 🌱 currently studying Computer Science (ABET Accredited) at Western Governors University and Computational Mathematics with a Computer Science cognate at Liberty University with hopes of continuing my Computer Science education at the Georgia Institute of Technology.
-- 🏦 [@DominionAnalytics](https://www.dominionanalytics.com/), a Virginia based Software Company developing algorithms and technologies to solve real-world problems for local small-businesses and non-profit organizations. 
+- 🏦 [@DominionAnalytics](https://www.dominionanalytics.com/) is a Virginia based Software Company developing algorithms and technologies to solve real-world problems for local small-businesses and non-profit organizations. 
 - 📫 You can easily reach me at <a href="mailto:rifezacharyd@pm.me">rifezacharyd@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
 
 
