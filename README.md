@@ -8,35 +8,33 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
-- 👀 I’m an American veteran, duel-enrolled student, and the founder of [@Dominion-Analytics](https://dominionanalytics.com/) 
-- 🌱 I am currently studying Computer Science (ABET Accredited) at Western Governors University and Computational Mathematics with a Computer Science cognate at Liberty University with hopes of continuing my Computer Science education at the Georgia Institute of Technology.
-- 🏦 [@DominionAnalytics](https://www.dominionanalytics.com/) is a Virginia based Software Company developing algorithms and technologies to solve real-world problems for local small-businesses and non-profit organizations. 
+- 👀 I’m an American veteran, duel-enrolled student, and independent security consultant. 
+- 🌱 I am currently studying Cybersecurity and Information Assurance at Western Governor's University and Computer Science Cybersecurity at Liberty University.
 - 📫 You can easily reach me at <a href="mailto:rifezacharyd@pm.me">rifezacharyd@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
 
 
 Professional Affiliations and Volunteer Service
 ----------------------------------------------------
 
--     Member / Volunteer : Lions Club International - Bristol Twin Cities Lions Club 
+-     Member / Volunteer : Bristol Twin Cities Lions Club 
       - Elected Club Secretary June 2024 - Present
-      - Club Marketing Chair
--     Member : Virginia Economic Developers Association
 
 
 Education
 ---------
 
-Expected July 2025
-:   **B.Sc., Computer Science**; Western Governor's University (Salt Lake City, UT)
+| School                        | Location          | Degree | Program                                 | Matriculation | Graduation             |
+| ----------------------------- | ----------------- | ------ | --------------------------------------- | ------------- | ---------------------- |
+| Liberty University            | Lynchburg VA      | B.Sc.  | Computer Science Cybersecurity          | July 2024     | Expected May 2026      |
+| Western Governor's University | Salt Lake City UT | B.Sc.  | Cybersecurity and Information Assurance | July 2023     | Expected December 2025 |
 
-Expected May 2026
-:   **B.Sc., Computational Mathematics - Computer Science**; Liberty University (Lynchburg, VA)
 
 
 Experience
 ----------
 
-
+January 2013 - January 2021
+: **Enlisted, Military Police Officer**; Department of Defense - VAARNG (Mannassas, VA)
 
 
 Additional Skills
@@ -49,26 +47,11 @@ Additional Skills
 * Programming Languages
 
       - Python
-      - R / R Markdown
-      - Java
-      - C#
-      - HTML / CSS
-      - JavaScript / jQuery
-      - PHP / SQL
+      - SQL
+      - HTML/CSS/JS
       - Ruby
       - MATLAB
 
-* Data Science
-
-      - Acquisition
-      - Cleaning
-      - Exploration
-      - Modeling and Simulation
-      - Data Mining
-      - ML/Ai
-      - Implementation and Strategy
-      - Business Analytics
-      - Operations Research
 
 [ref]: https://github.com/zacharydrife
 
@@ -76,9 +59,6 @@ Additional Skills
 
      - English (native speaker)
      - French
-     - Italian
-     - German
-     - Russian
 
 
 >
