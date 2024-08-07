@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
-- 👀 I’m an American veteran, duel-enrolled student, and independent security consultant. 
-- 🌱 I am currently studying Cybersecurity and Information Assurance at Western Governor's University and Computer Science Cybersecurity at Liberty University.
+- 👀 I’m an American Veteran and Civil Engineering Student designing and developing critical infrastructure for more resilient communities. 
+- 🌱 I am currently researching Civil Engineering's applications to urban planning and national security.
 - 📫 You can easily reach me at <a href="mailto:rifezacharyd@pm.me">rifezacharyd@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
 
 
@@ -25,8 +25,7 @@ Education
 
 | School                        | Location          | Degree | Program                                 | Matriculation | Graduation             |
 | ----------------------------- | ----------------- | ------ | --------------------------------------- | ------------- | ---------------------- |
-| Liberty University            | Lynchburg VA      | B.Sc.  | Computer Science Cybersecurity          | July 2024     | Expected May 2026      |
-| Western Governor's University | Salt Lake City UT | B.Sc.  | Cybersecurity and Information Assurance | July 2023     | Expected December 2025 |
+| Liberty University            | Lynchburg VA      | B.Sc.  | Civil Engineering                       | July 2024     | Expected May 2026      |
 
 
 
