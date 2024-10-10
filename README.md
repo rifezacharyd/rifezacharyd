@@ -4,12 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 style="text-align: center">Zachary D. Rife</h1>
-<h3 style="text-align: center"> 851 French Moore Jr Blvd Box 23 Abingdon Virginia 24210</h3>
+<h3 style="text-align: center"> 851 French Moore Jr Blvd #23 Abingdon Virginia 24210</h3>
 
 
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
-- 👀 I’m an American Veteran, Lobbyist, and Student of Law & Policy advocating for resilience in local communities. 
-- 🌱 I am currently researching common-sense legislative proposals that foster conservation, innovation, and growth.
+- 👀 I’m an American Veteran, Community Activist, and Behavioral Science student advocating for resilience in local communities. 
+- 🌱 I am currently studying Psychology and readying myself for studies in Clinical Mental Health Counseling at Liberty University.
 - 📫 You can easily reach me at <a href="mailto:rifezacharyd@pm.me">rifezacharyd@pm.me</a> or at <a href="tel:+12029099923">+1 202 909 9923</a> to schedule a meeting anytime.
 
 
@@ -25,7 +25,7 @@ Education
 
 | School                        | Location          | Degree | Program                                 | Matriculation | Graduation             |
 | ----------------------------- | ----------------- | ------ | --------------------------------------- | ------------- | ---------------------- |
-| Liberty University            | Lynchburg VA      | B.Sc.  | Law & Policy - Public Policy            | June 2024     | Expected May 2026      |
+| Liberty University            | Lynchburg VA      | B.Sc.  | Psychology                              | June 2024     | Expected May 2025      |
 
 
 
