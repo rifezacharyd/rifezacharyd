@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
-- 👀 I’m an American Veteran, Entrepreneur, and Computational Mathematics student at Liberty University. 
-- 🌱 specializing in Actuarial Mathematics, Finance, and Entrepreneurship.
+- 👀 I’m an American Veteran, Entrepreneur, and Industrial Engineering Technology student at Liberty University. 
+- 🌱 specializing in Finance, Data Science with Machine Learning and AI, and Entrepreneurship.
 - 📫 You can easily reach me at <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a> or at <a href="tel:+12766965133">+1 276 696 5133</a> to schedule a meeting anytime.
 
 
@@ -25,7 +25,7 @@ Education
 
 | School                        | Location          | Degree | Program                                 | Graduation            |
 | ----------------------------- | ----------------- | ------ | --------------------------------------- |---------------------- |
-| Liberty University            | Lynchburg VA      | B.Sc.  | Computational Mathematics (Actuarial)   | Expected May 2025     |
+| Liberty University            | Lynchburg VA      | B.Sc.  | Industrial Engineering Technology       | Expected DEC 2025     |
 
 
 
@@ -45,11 +45,13 @@ Additional Skills
 
 * Programming Languages
 
-      - Python
-      - SQL
-      - HTML/CSS/JS
-      - Ruby
-      - MATLAB
+  - Python
+  - C++
+  - SQL
+  - HTML/CSS/JS
+  - Ruby
+  - MATLAB
+  - R Studio
 
 
 [ref]: https://github.com/zacharydrife
