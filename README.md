@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
-- 👀 I’m an American Veteran, Entrepreneur, and Industrial Engineering Technology student at Liberty University. 
-- 🌱 specializing in Finance, Data Science with Machine Learning and AI, and Entrepreneurship.
+- 👀 I’m an American Veteran, Public Servant, and Student of Liberty University's School of Engineering. 
+- 🌱 specializing in Civil Engineering, Engineering and Project Management, as well as National Security Policy
 - 📫 You can easily reach me at <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a> or at <a href="tel:+12766965133">+1 276 696 5133</a> to schedule a meeting anytime.
 
 
@@ -25,7 +25,7 @@ Education
 
 | School                        | Location          | Degree | Program                                 | Graduation            |
 | ----------------------------- | ----------------- | ------ | --------------------------------------- |---------------------- |
-| Liberty University            | Lynchburg VA      | B.Sc.  | Industrial Engineering Technology       | Expected DEC 2025     |
+| Liberty University            | Lynchburg VA      | B.Sc.  | Civil Engineering (ABET          )      | Expected DEC 2025     |
 
 
 
