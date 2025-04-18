@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hello world, my name is [@rifezacharyd](https://www.github.com/rifezacharyd).
 - 👀 I’m an American Veteran, Public Servant, and Student of Liberty University. 
-- 🌱 specializing in Computational Mathematics and Applied Statistics.
+- 🌱 specializing in Computational Mathematics.
 - 📫 You can easily reach me at <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a> or at <a href="tel:+12766965133">+1 276 696 5133</a> to schedule a meeting anytime.
 
 
