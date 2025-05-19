@@ -13,45 +13,30 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can easily reach me at <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a> or at <a href="tel:+12766965133">+1 276 696 5133</a> to schedule a meeting anytime.
 
 
-Professional Affiliations and Volunteer Service
+Public Service
 ----------------------------------------------------
 
 -     Member / Volunteer : Bristol Twin Cities Lions Club 
       - Elected Club Secretary June 2024 - Present
 
+-     Volunteer : Hiltons Volunteer Fire Department
+      - Volunteer Firefighter October 2024 - Present
+    
+-     Enlisted : Department of Defense - VAARNG 
+      - Military Police Officer January 2013 - January 2021
+
 
 Education
 ---------
 
-| School                        | Location          | Degree | Program                                 | Graduation            |
-| ----------------------------- | ----------------- | ------ | --------------------------------------- |---------------------- |
-| Liberty University            | Lynchburg VA      | B.Sc.  | Computational Mathematics               | Expected MAY 2026     |
+| School                                 | Location          | Degree                | Program                                 | Status                 |
+| -------------------------------------- | ----------------- | --------------------- | --------------------------------------- |----------------------- |
+| Liberty University                     | Lynchburg VA      | Master of Science     | Applied Statistics                      | Matriculating MAY 2026 |
+| East Tennessee State University (ETSU) | Johnson City TN   | Graduate Certificate  | Biostatistics                           | Matriculating MAY 2026 |
+| Liberty University                     | Lynchburg VA      | Bachelor of Science   | Computational Mathematics               | Graduating MAY 2026    |
 
 
 
-Experience
-----------
-
-January 2013 - January 2021
-: **Enlisted, Military Police Officer**; Department of Defense - VAARNG (Mannassas, VA)
-
-
-Additional Skills
------------------
-
-* Six Sigma / Lean Six Sigma
-
-      White Belt Certified
-
-* Programming Languages
-
-  - C++
-  - Python
-  - R
-  - SAS
-  - SQL
-  - HTML/CSS/JS
-  - MATLAB
 
 
 [ref]: https://zacharyrife.com/
