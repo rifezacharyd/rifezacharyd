@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 # Zachary D. Rife
 
-### 🧠 Psychology Student · 📊 Biostatistics Researcher · 🔐 Cybersecurity Practitioner · 🎖️ U.S. Army Veteran
-
 📍 Abingdon, Virginia
 
 [![Email](https://img.shields.io/badge/Email-zdrife%40liberty.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdrife@liberty.edu)
@@ -21,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 About Me
 
-Hello, world! I'm **Zachary** — an American Veteran, community volunteer, and senior at **Liberty University's School of Behavioral Sciences**, specializing in **Psychology** and **Clinical Mental Health Counseling**.
+Hello, world! I'm **Zachary** — an American Veteran, community volunteer, and a **2025 graduate of Liberty University** with an **Associate of Arts in Psychology**.
 
 My work sits at an unusual intersection: I pair **behavioral science** with **applied statistics** and **cybersecurity**, publishing independent research on health biomarkers, studying critical infrastructure threats, and writing commentary on emerging technology. Whether the problem is a Kaplan–Meier survival curve, a Stuxnet post‑mortem, or a first‑responder call, I believe the same thing matters most: *careful observation, rigorous thinking, and service to others*.
 
@@ -61,9 +59,9 @@ Shell‑driven guides for **terminal commands**, **terminal customization**, and
 
 ## 🎓 Education
 
-| School | Location | Degree | Program | Graduation |
-| :----- | :------- | :----- | :------ | :--------- |
-| **Liberty University** | Lynchburg, VA | B.Sc. | Psychology | *Expected May 2026* |
+| School | Location | Degree | Program | Graduated |
+| :----- | :------- | :----- | :------ | :-------- |
+| **Liberty University** | Lynchburg, VA | A.A. | Psychology | *December 2025* |
 
 ---
 
