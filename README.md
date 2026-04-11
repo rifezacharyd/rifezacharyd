@@ -6,9 +6,9 @@ rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md
 
 # Zachary D. Rife
 
-### Software Engineer · Cybersecurity Student · Veteran
+### Veteran · Volunteer · Computer Science Student
 
-*Building product at Intuit by day. Writing security research and shipping coursework on GitHub by night.*
+*I'm also the Founder of [Ridgeview Ledger Co](https://ridgeviewledgers.com/), a Technology Consulting company, where I develop software, hardware, and other technologies, integrate and manage digital financial systems, and perform security research and remediation missions for local organizations.*
 
 📍 Abingdon, Virginia  &nbsp;·&nbsp;  🌐 <a href="https://rifezacharyd.github.io">The Binary Journal</a>  &nbsp;·&nbsp;  📫 <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a>
 
@@ -25,13 +25,13 @@ rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md
 
 ## 👋 About
 
-I'm a software professional at **Intuit** and a Computer Science student at **Liberty University Online**, pursuing a combined **BS in Computer Science (Cybersecurity)** and **MS in Cybersecurity** on a dual-enrollment track. My long-term target is an internal move to Intuit's Product Development organization — I treat software engineering as the craft and cybersecurity as the differentiator, not the other way around.
+I'm an Expert Bookkeeper at **Intuit, Inc.** and a Computer Science student at **Liberty University**, pursuing a combined **BS in Computer Science with special coursework in Cybersecurity**. My long-term goal is to pursue an internal move at Intuit to join the Product Development team.
 
-Before tech, I served as a Military Police Officer in the Virginia Army National Guard. I'm still a volunteer firefighter with Hiltons VFD, the elected Club Secretary of the Bristol Twin Cities Lions Club, and a pretty happy work-from-home husband living on a small farm.
+Before my career in tech, I served as a Military Police Officer in the Virginia Army National Guard. I'm still serve my community as a volunteer firefighter with the [Hiltons VFD](https://hiltonsvfd.org/) and as the elected Club Secretary of the [Bristol Twin Cities Lions Club](https://bristollions.org/).
 
 ## 🎯 Currently
 
-- 💼 &nbsp;Working at **Intuit**, with eyes on the Product Development team
+- 💼 &nbsp;Working at **Intuit, Inc.**, with eyes on the Product Development team
 - 🎓 &nbsp;Starting a 7-semester BS+MS CS/Cybersecurity plan at Liberty Online — **Fall 2026 → Fall 2028**
 - ✍️ &nbsp;Writing case studies, research summaries, and lab notes on [**The Binary Journal**](https://rifezacharyd.github.io)
 - 📊 &nbsp;Bridging statistics and security in the [`data-science`](https://github.com/rifezacharyd/data-science) repo
@@ -118,8 +118,8 @@ A scaffolded set of public repositories that grow alongside my coursework and in
 
 | School             | Program                                    | Degree | Timeline                  |
 | :----------------- | :----------------------------------------- | :----- | :------------------------ |
-| Liberty University | Computer Science — Cybersecurity           | B.S.   | Fall 2026 – Spring 2028   |
-| Liberty University | Cybersecurity                              | M.S.   | Spring 2028 – Fall 2028   |
+| Liberty University | Computer Science — Cybersecurity           | B.S.   | Spring 2026 – Fall 2027   |
+| Liberty University | Psychology                                 | A.A.   | Fall 2024 – Fall 2025     |
 
 Dual-enrollment track — graduate coursework begins during the final undergraduate semesters.
 
@@ -130,13 +130,13 @@ Dual-enrollment track — graduate coursework begins during the final undergradu
 
 ### 🤝 Public Service
 
-- 🦁 &nbsp;**Bristol Twin Cities Lions Club** — Club Secretary *(elected June 2024 – Present)*
 - 🚒 &nbsp;**Hiltons Volunteer Fire Department** — Volunteer Firefighter *(October 2024 – Present)*
-- 🎖️ &nbsp;**Virginia Army National Guard** — Military Police Officer *(2013 – 2021)*
+- 🦁 &nbsp;**Bristol Twin Cities Lions Club** — Club Secretary *(elected June 2024 – Present)*
+- 🎖️ &nbsp;**Department of Defense VAARNG** — Enlisted Military Police Officer *(2013 – 2021)*
 
 ### 🗣️ Human Languages
 
-English *(native)* &nbsp;·&nbsp; French
+English *(native)* &nbsp;·&nbsp; French 
 
 ---
 
