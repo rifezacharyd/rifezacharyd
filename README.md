@@ -65,6 +65,12 @@ A scaffolded set of public repositories that grow alongside my coursework and in
 | :--- | :--- |
 | 🔐 [**security**](https://github.com/rifezacharyd/security) | Defensive security notes, lab write-ups, and tooling I build while working through the cybersecurity specialization. |
 
+### ⚡ Electronics
+
+| Repository | What's inside |
+| :--- | :--- |
+| 🔌 [**electronics**](https://github.com/rifezacharyd/electronics) | Arduino projects, pin configurations, circuit theory, and foundational electronics grounded in Rosenberg's *Audel Basic Electronics*. |
+
 ---
 
 ## 🛠️ Tech Stack
@@ -101,14 +107,17 @@ A scaffolded set of public repositories that grow alongside my coursework and in
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifezacharyd&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifezacharyd&layout=compact&theme=radical&hide_border=true" />
+<img src="metrics/general.svg" />
+<img src="metrics/languages.svg" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifezacharyd&theme=radical&hide_border=true" />
+<img src="metrics/habits.svg" />
+<img src="metrics/calendar.svg" />
 
 </div>
+
+<sub>Auto-updated every 6 hours via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 
 ---
 
