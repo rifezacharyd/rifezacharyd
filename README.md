@@ -1,109 +1,126 @@
 <!---
 rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
 
 # Zachary D. Rife
 
-### Veteran · Volunteer · Computer Science Student
+*Founder of [Darwin Dynamics LLC dba Darwin Microsystems](https://darwinmicro.com/), a Technical Consulting and Managed Services Provider delivering secure solutions to local organizations.*
 
-*I'm also the Founder of [Darwin Dynamics LLC dba Darwin Microsystems](https://darwinmicro.com/), a Technical Consulting and Managed Services Provider delivering secure solutions to local organizations.*
+📍 Abingdon, Virginia
 
-📍 Abingdon, Virginia  &nbsp;·&nbsp;  🌐 <a href="https://rifezacharyd.github.io">The Binary Journal</a>  &nbsp;·&nbsp;  📫 <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a>
-
-<br/>
-
-[![Blog](https://img.shields.io/badge/Blog-The%20Binary%20Journal-ae00ee?style=for-the-badge&logo=jekyll&logoColor=white)](https://rifezacharyd.github.io)
+[![Email](https://img.shields.io/badge/Email-zdrife%40liberty.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdrife@liberty.edu)
+[![Phone](https://img.shields.io/badge/Call-%2B1_276_696_5133-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+12766965133)
 [![GitHub](https://img.shields.io/badge/GitHub-rifezacharyd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifezacharyd)
-[![Zenodo](https://img.shields.io/badge/Zenodo-Research-1682d4?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/)
-[![Email](https://img.shields.io/badge/Email-zdrife%40liberty.edu-f70077?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zdrife@liberty.edu)
 
 </div>
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-I'm an Expert Bookkeeper at **Intuit, Inc.** and a Computer Science student at **Liberty University**, pursuing a combined **BS in Computer Science with special coursework in Cybersecurity**. My long-term goal is to pursue an internal move at Intuit to join the Product Development and Program Management teams.
+Hello, world! I'm **Zachary** — an American Veteran, community volunteer, and a **2025 graduate of Liberty University** with an **Associate of Arts in Psychology**.
 
-Before my career in tech, I served as a Military Police Officer in the Virginia Army National Guard. I'm still serve my community as a volunteer firefighter with the [Hiltons VFD](https://hiltonsvfd.org/) and as the elected Club Secretary of the [Bristol Twin Cities Lions Club](https://bristollions.org/).
+My work sits at an unusual intersection: I pair **behavioral science** with **applied statistics** and **cybersecurity**, publishing independent research on health biomarkers, studying critical infrastructure threats, and writing commentary on emerging technology. Whether the problem is a Kaplan–Meier survival curve, a Stuxnet post‑mortem, or a first‑responder call, I believe the same thing matters most: *careful observation, rigorous thinking, and service to others*.
 
-## 🎯 Currently
-
-- 💼 &nbsp;Working at **Intuit, Inc.**, with eyes on the Product Development team
-- 🎓 &nbsp;Wrapping up a BS in Computer Science Cybersecurity at Liberty University — **Graduating → Summer 2027**
-- ✍️ &nbsp;Writing case studies, research summaries, and lab notes on [**The Binary Journal**](https://rifezacharyd.github.io)
-- 📊 &nbsp;Bridging statistics and security in the [`data-science`](https://github.com/rifezacharyd/data-science) repo
-- 🧠 &nbsp;Reading everything I can get my hands on about supply-chain security and secure software engineering
+Feel free to reach out any time to collaborate or schedule a meeting.
 
 ---
 
-## 🗂️ Portfolio
+## 📌 Featured Work
 
-A scaffolded set of public repositories that grow alongside my coursework and independent research. Each one has a clear purpose — together they're meant to read as a single, coherent body of work rather than a graveyard of half-finished side projects.
+### 🎗️ [breast-cancer-biomarkers](https://github.com/rifezacharyd/breast-cancer-biomarkers)
+> *Independent academic study on breast cancer survival analysis and screening access.*
 
-### ✍️ Writing & Research
+An end‑to‑end, reproducible research project written in **R** and **SAS** with a full **LaTeX** manuscript. Applies Kaplan–Meier estimation, stratified log‑rank testing, Cox proportional hazards modeling, and time‑stratified risk profiling to argue the case for broader early‑detection coverage.
+📄 Published via Zenodo · DOI: [10.5281/zenodo.15468986](https://doi.org/10.5281/zenodo.15468986)
 
-| Repository | What's inside |
-| :--- | :--- |
-| 🌐 [**rifezacharyd.github.io**](https://github.com/rifezacharyd/rifezacharyd.github.io) | *The Binary Journal* — my Jekyll-powered blog covering security research, data analysis, programming, and industry news. |
-| 🔬 [**case-studies**](https://github.com/rifezacharyd/case-studies) | Long-form technical case studies on landmark cybersecurity incidents — Stuxnet, SolarWinds, NotPetya, Log4j, xz, 3CX, Kaseya, and the rest of the canon. |
-| 📰 [**technology-news**](https://github.com/rifezacharyd/technology-news) | Curated notes on emerging threats, industry shifts, and stories worth revisiting. |
+### 🔐 [security](https://github.com/rifezacharyd/security)
+> *Cybersecurity portfolio and learning lab.*
 
-### 🎓 Coursework
+A hands‑on collection covering **active and passive reconnaissance**, a **cybersecurity lab** of practical exercises, and **Python for cybersecurity** — automation and tooling for real security workflows.
 
-| Repository | What's inside |
-| :--- | :--- |
-| 💻 [**computer-science**](https://github.com/rifezacharyd/computer-science) | Algorithms, data structures, architecture, and systems coursework. |
-| 📊 [**data-science**](https://github.com/rifezacharyd/data-science) | Statistical and data analysis projects in R and Python — including the MATH 211 portfolio project on the UNSW-NB15 intrusion detection dataset. |
-| 🧑‍💻 [**programming**](https://github.com/rifezacharyd/programming) | Language-focused exercises, reference snippets, and small working examples. |
+### 🏭 [case-studies](https://github.com/rifezacharyd/case-studies)
+> *Case studies in cybersecurity and critical infrastructure.*
 
-### 🛡️ Security
+Deep dives into **critical infrastructure threats**, **incident response**, **supply chain attacks**, and a dedicated **Stuxnet analysis** — examining how cyberweapons reshape the defense of industrial control systems.
 
-| Repository | What's inside |
-| :--- | :--- |
-| 🔐 [**security**](https://github.com/rifezacharyd/security) | Defensive security notes, lab write-ups, and tooling I build while working through the cybersecurity specialization. |
+### 📰 [technology-news](https://github.com/rifezacharyd/technology-news)
+> *Technology news analysis and commentary, written in Rust.*
 
-### ⚡ Electronics
+Commentary on the trends shaping modern software: **AI‑assisted development**, **cloud‑native containers**, **open‑source security**, **zero‑trust architecture**, and **the rise of Rust**.
 
-| Repository | What's inside |
-| :--- | :--- |
-| 🔌 [**electronics**](https://github.com/rifezacharyd/electronics) | Arduino projects, pin configurations, circuit theory, and foundational electronics grounded in Rosenberg's *Audel Basic Electronics*. |
+### 🖥️ [computer-science](https://github.com/rifezacharyd/computer-science) · [programming](https://github.com/rifezacharyd/programming)
+> *CS fundamentals and polyglot programming projects.*
+
+Shell‑driven guides for **terminal commands**, **terminal customization**, and **Ubuntu dev environments**, plus a broader programming collection spanning **bash automation**, **JavaScript clean code**, editor configuration, and language selection for new programmers.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-<div align="center">
+| School | Location | Degree | Program | Graduated |
+| :----- | :------- | :----- | :------ | :-------- |
+| **Liberty University** | Lynchburg, VA | A.A. | Psychology | *December 2025* |
+
+---
+
+## 🎖️ Public Service
+
+> *A commitment to service, both in uniform and in the community.*
+
+**🦁 Bristol Twin Cities Lions Club** — *Member & Volunteer*
+- Elected **Club Secretary**, June 2024 – Present
+
+**🚒 Hiltons Volunteer Fire Department** — *Volunteer Firefighter*
+- October 2024 – Present
+
+**🪖 Department of Defense — Virginia Army National Guard (VAARNG)** — *Enlisted*
+- **Military Police Officer**, January 2013 – January 2021
+
+---
+
+## 💼 Experience
+
+**Military Police Officer** — *Department of Defense, VAARNG*
+📍 Manassas, VA · 🗓️ January 2013 – January 2021
+
+---
+
+## 🛠️ Technical Skills
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-**Tools & Platforms**
+**Research, Writing & Tooling**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![PGFPlots](https://img.shields.io/badge/PGFPlots-2E5266?style=flat-square)
+![APA Formatting](https://img.shields.io/badge/APA_Formatting-005C9C?style=flat-square)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</div>
+**Domains of Focus**
+
+`Survival Analysis` · `Biostatistics` · `Clinical Mental Health` · `Behavioral Science`
+`Active & Passive Reconnaissance` · `Incident Response` · `Critical Infrastructure Security`
+`Supply Chain Security` · `Zero‑Trust Architecture` · `AI‑Assisted Development`
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
@@ -121,31 +138,10 @@ A scaffolded set of public repositories that grow alongside my coursework and in
 
 ---
 
-## 🧭 Background
+## 🌍 Languages
 
-### 🎓 Education
-
-| School             | Program                                    | Degree | Timeline                  |
-| :----------------- | :----------------------------------------- | :----- | :------------------------ |
-| Liberty University | Computer Science — Cybersecurity           | B.S.   | Spring 2026 – Fall 2027   |
-| Liberty University | Psychology                                 | A.A.   | Fall 2024 – Fall 2025     |
-
-Dual-enrollment track — graduate coursework begins during the final undergraduate semesters.
-
-### 💼 Experience
-
-- **Intuit** &nbsp;·&nbsp; *Present* — Expert Live Bookkeeping and Tax Advisory Services, working toward an internal move to the Product Development team.
-- **Virginia Army National Guard** &nbsp;·&nbsp; *January 2013 – January 2021* — Enlisted Military Police Officer, based out of Manassas, VA.
-
-### 🤝 Public Service
-
-- 🚒 &nbsp;**Hiltons Volunteer Fire Department** — Volunteer Firefighter *(October 2024 – Present)*
-- 🦁 &nbsp;**Bristol Twin Cities Lions Club** — Club Secretary *(elected June 2024 – Present)*
-- 🎖️ &nbsp;**Department of Defense VAARNG** — Enlisted Military Police Officer *(2013 – 2021)*
-
-### 🗣️ Human Languages
-
-English *(native)* &nbsp;·&nbsp; French 
+- 🇺🇸 **English** — Native speaker
+- 🇫🇷 **French**
 
 ---
 
@@ -153,10 +149,6 @@ English *(native)* &nbsp;·&nbsp; French
 
 > *"As for the future, your task is not to foresee it, but to enable it."*
 >
-> — Antoine de Saint-Exupéry
-
-<br/>
-
-<sub>Thanks for stopping by. If any of this overlaps with what you're working on, my inbox is open.</sub>
+> — **Antoine de Saint‑Exupéry**
 
 </div>
