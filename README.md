@@ -78,8 +78,8 @@ Shell‑driven guides for **terminal commands**, **terminal customization**, and
 
 | School | Location | Degree | Program | Timeline |
 | :----- | :------- | :----- | :------ | :------- |
-| **Liberty University** | Lynchburg, VA | M.S. | Cybersecurity *(dual enrollment)* | *Spring 2028 – Fall 2028* |
-| **Liberty University** | Lynchburg, VA | B.S. | Computer Science — Cybersecurity | *Fall 2026 – Fall 2028* |
+| **Liberty University** | Lynchburg, VA | M.S. | Cybersecurity *(dual enrollment)* | *Fall 2027 – Fall 2028* |
+| **Liberty University** | Lynchburg, VA | B.S. | Computer Science — Cybersecurity | *Spring 2026 – Fall 2027* |
 | **Liberty University** | Lynchburg, VA | A.A. | Psychology | *Fall 2024 – Fall 2025* |
 
 Dual‑enrollment track — graduate coursework begins during the final undergraduate semesters.
