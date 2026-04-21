@@ -25,14 +25,14 @@ rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md
 
 ## 👋 About
 
-I'm an Expert Bookkeeper at **Intuit, Inc.** and a Computer Science student at **Liberty University**, pursuing a combined **BS in Computer Science with special coursework in Cybersecurity**. My long-term goal is to pursue an internal move at Intuit to join the Product Development team.
+I'm an Expert Bookkeeper at **Intuit, Inc.** and a Computer Science student at **Liberty University**, pursuing a combined **BS in Computer Science with special coursework in Cybersecurity**. My long-term goal is to pursue an internal move at Intuit to join the Product Development and Program Management teams.
 
 Before my career in tech, I served as a Military Police Officer in the Virginia Army National Guard. I'm still serve my community as a volunteer firefighter with the [Hiltons VFD](https://hiltonsvfd.org/) and as the elected Club Secretary of the [Bristol Twin Cities Lions Club](https://bristollions.org/).
 
 ## 🎯 Currently
 
 - 💼 &nbsp;Working at **Intuit, Inc.**, with eyes on the Product Development team
-- 🎓 &nbsp;Starting a 7-semester BS+MS CS/Cybersecurity plan at Liberty Online — **Fall 2026 → Fall 2028**
+- 🎓 &nbsp;Wrapping up a BS in Computer Science Cybersecurity at Liberty University — **Graduating → Summer 2027**
 - ✍️ &nbsp;Writing case studies, research summaries, and lab notes on [**The Binary Journal**](https://rifezacharyd.github.io)
 - 📊 &nbsp;Bridging statistics and security in the [`data-science`](https://github.com/rifezacharyd/data-science) repo
 - 🧠 &nbsp;Reading everything I can get my hands on about supply-chain security and secure software engineering
@@ -134,7 +134,7 @@ Dual-enrollment track — graduate coursework begins during the final undergradu
 
 ### 💼 Experience
 
-- **Intuit** &nbsp;·&nbsp; *Present* — Software professional, working toward an internal move to the Product Development organization.
+- **Intuit** &nbsp;·&nbsp; *Present* — Expert Live Bookkeeping and Tax Advisory Services, working toward an internal move to the Product Development team.
 - **Virginia Army National Guard** &nbsp;·&nbsp; *January 2013 – January 2021* — Enlisted Military Police Officer, based out of Manassas, VA.
 
 ### 🤝 Public Service
