@@ -8,7 +8,7 @@ rifezacharyd/rifezacharyd is a ✨ special ✨ repository because its `README.md
 
 ### Veteran · Volunteer · Computer Science Student
 
-*I'm also the Founder of [Ridgeview Ledger Co](https://ridgeviewledgers.com/), a Financial Technology Consulting company developing  integrating and managing digital financial systems, and also [ZeroDayResearch.Dev](https://zerodayresearch.dev/) where I develop software, hardware, and other technologies, and perform security research and remediation missions for local organizations.*
+*I'm also the Founder of [Darwin Dynamics LLC dba Darwin Microsystems](https://darwinmicro.com/), a Technical Consulting and Managed Services Provider delivering secure solutions to local organizations.*
 
 📍 Abingdon, Virginia  &nbsp;·&nbsp;  🌐 <a href="https://rifezacharyd.github.io">The Binary Journal</a>  &nbsp;·&nbsp;  📫 <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a>
 
