@@ -183,7 +183,7 @@ Elected **Club Secretary**
 
 ![Intuit Enterprise](https://img.shields.io/badge/Intuit_Enterprise-236CFF?style=for-the-badge&logo=intuit&logoColor=white)
 ![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
-![TurboTax](https://img.shields.io/badge/TurboTax-37A82C?style=for-the-badge&logo=intuit&logoColor=white)
+![TurboTax](https://img.shields.io/badge/TurboTax-D52B1E?style=for-the-badge&logo=intuit&logoColor=white)
 ![Credit Karma](https://img.shields.io/badge/Credit_Karma-006B52?style=for-the-badge&logo=creditkarma&logoColor=white)
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
