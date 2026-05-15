@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Accountant · Entrepreneur · Veteran · Volunteer
 
-*Owner of an independent accounting practice and Advanced QuickBooks ProAdvisor, focused on accounting, accounting information systems and controls, and data analysis.*
+*Owner of an independent accounting practice and Advanced QuickBooks ProAdvisor, focused on accounting, accounting information systems and controls, as well as data analysis.*
 
-📍 Abingdon, Virginia &nbsp;·&nbsp; 🌐 <a href="https://rifezacharyd.github.io">The Binary Journal</a> &nbsp;·&nbsp; 📫 <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a>
+📍 Abingdon, Virginia &nbsp;·&nbsp; 🌐 <a href="https://zacharyrife.com">zacharyrife.com</a> &nbsp;·&nbsp; 📫 <a href="mailto:zdrife@liberty.edu">zdrife@liberty.edu</a>
 
 <br/>
 
